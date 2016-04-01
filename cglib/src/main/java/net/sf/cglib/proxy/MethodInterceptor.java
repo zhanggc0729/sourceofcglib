@@ -25,7 +25,7 @@ public interface MethodInterceptor
 extends Callback
 {
     /**
-     * 所有生成的代理方法调用此方法代替原有的方法。
+     * 所有生成的代理方法调用此方法代替原有的方法。 
      * All generated proxied methods call this method instead of the original method.
      * The original method may either be invoked by normal reflection using the Method object,
      * or by using the MethodProxy (faster).
