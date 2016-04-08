@@ -23,7 +23,7 @@ import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.Type;
 import java.util.*;
 
-/**
+/** 
  * @author Chris Nokleberg
  */
 abstract public class BeanCopier
